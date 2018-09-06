@@ -1,0 +1,13 @@
+C:\Users\ren\source\repos\Vjesala\Vjesala\bin\Debug\Vjesala.exe.config
+C:\Users\ren\source\repos\Vjesala\Vjesala\bin\Debug\Vjesala.exe
+C:\Users\ren\source\repos\Vjesala\Vjesala\bin\Debug\Vjesala.pdb
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.csprojAssemblyReference.cache
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Form1.resources
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Properties.Resources.resources
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.GenerateResource.cache
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.CoreCompileInputs.cache
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.exe
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.pdb
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.NovaRijec.resources
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Pobjeda.resources
+C:\Users\ren\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Rezultati.resources
